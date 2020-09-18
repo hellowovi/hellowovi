@@ -10,7 +10,7 @@ I love exploring new stuffs
 
 ---
 
-## Join me 🐱‍💻
+## [Join Me](https://github.com/pandao/editor.md "Join Me")Join me 🐱‍💻
 
 <div>
   <a href="https://medium.com/@wovicodes">
