@@ -22,9 +22,58 @@ I love exploring new stuffs
   <a href="https://stackoverflow.com/users/14272620/wovi-codes">
     <img alt="Wovi StackOverflow" width="24px" src="https://simpleicons.org/icons/stackoverflow.svg" />
   </a>
-  <a href="https://twitter.com/wovicodes">
-    <img alt="Wovi Twitter" width="24px" src="https://simpleicons.org/icons/twitter.svg" />
+</div>
+
+---
+
+## Stuffs I Know 🤓
+
+<div>
+  <a href="https://medium.com/@wovicodes">
+    <img alt="Python" width="24px" src="https://simpleicons.org/icons/python.svg" /> 
+  </a>&nbsp;&nbsp;
+  <a href="https://www.quora.com/profile/Wovi">
+    <img alt="HTML5" width="24px" src="https://simpleicons.org/icons/html5.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/14272620/wovi-codes">
+    <img alt="CSS3" width="24px" src="https://simpleicons.org/icons/css3.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/14272620/wovi-codes">
+    <img alt="Javascript" width="24px" src="https://simpleicons.org/icons/javascript.svg" />
+  </a>
+  <br />
+  <a href="https://stackoverflow.com/users/14272620/wovi-codes">
+    <img alt="C Programming Language" width="24px" src="https://simpleicons.org/icons/c.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/14272620/wovi-codes">
+    <img alt="Googling Stuffs" width="24px" src="https://simpleicons.org/icons/google.svg" />
   </a>
 </div>
+
+---
+
+## Tools I Use 🧰
+
+<div>
+  <a href="https://medium.com/@wovicodes">
+    <img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-blue?logoColor=white&logo=visual%20studio%20code" /> 
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@wovicodes">
+    <img alt="PowerShell" src="https://img.shields.io/badge/Terminal-PowerShell-green?logoColor=white&logo=powershell" /> 
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@wovicodes">
+    <img alt="Illustrator" src="https://img.shields.io/badge/Graphics-Illustrator-yellow?logoColor=white&logo=adobe%20illustrator" /> 
+  </a>
+  <br />
+  <a href="https://medium.com/@wovicodes">
+    <img alt="Photoshop" src="https://img.shields.io/badge/Graphics-Photoshop-yellow?logoColor=white&logo=adobe%20photoshop" /> 
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@wovicodes">
+    <img alt="Notion" src="https://img.shields.io/badge/Note-Notion-blueviolet?logoColor=white&logo=notion" /> 
+  </a>
+  
+</div>
+
+---
 
 </div>
