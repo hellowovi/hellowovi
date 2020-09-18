@@ -26,7 +26,7 @@ I love exploring new stuffs
 
 ---
 
-## Stuffs I Know 🤓
+## [Stuffs I Know 🤓]( https://github.com/hellowovi/ "Stuffs I Know 🤓")
 
 <div>
   <a href="https://www.python.org/">
@@ -53,7 +53,7 @@ I love exploring new stuffs
 
 ---
 
-## Tools I Use 🧰
+## [Tools I Use 🛠]( https://github.com/hellowovi/ "Tools I Use 🛠")
 
 <div>
   <a href="https://code.visualstudio.com/">
