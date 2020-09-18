@@ -42,6 +42,7 @@ I love exploring new stuffs
     <img alt="Javascript" width="24px" src="https://simpleicons.org/icons/javascript.svg" />
   </a>
   <br />
+  <br />
   <a href="https://stackoverflow.com/users/14272620/wovi-codes">
     <img alt="C Programming Language" width="24px" src="https://simpleicons.org/icons/c.svg" />
   </a>&nbsp;&nbsp;
