@@ -10,7 +10,7 @@ I love exploring new stuffs
 
 ---
 
-## [Join Me 🐱‍💻]("Join Me 🐱‍💻")
+## [Join Me 🐱‍💻]( https://github.com/hellowovi/ "Join Me 🐱‍💻")
 
 <div>
   <a href="https://medium.com/@wovicodes">
