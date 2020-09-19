@@ -4,7 +4,7 @@
 
 # <img src="wave.gif" width="35px"> Hey, I am Partha!
 
-I am Computer Science Student
+I am a Computer Science Student
 
 I love exploring new stuffs
 
